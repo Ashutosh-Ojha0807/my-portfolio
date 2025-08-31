@@ -7,7 +7,7 @@ function Hero() {
         {/* Profile Image */}
         <div className="hero-img">
           <img
-            src="file:///C:/Users/ashut/OneDrive/Pictures/background-image2.webp"   // place profile.jpg inside public/images/
+            src="https://i.ibb.co/Zpt3mHrB/Profile.jpg"   // place profile.jpg inside public/images/
             alt="Ashutosh Ojha"
             onError={(e) => {
               e.target.onerror = null;
